@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable_ic_logs_24.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable\\ic_logs_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\layout_item_log.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\item_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable_ic_delete_24.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable\\ic_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable_ic_sync_24.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable\\ic_sync_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable_ic_camera_24.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable\\ic_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable_ic_launcher_placeholder.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable\\ic_launcher_placeholder.xml"
+    },
+    {
+        "merged": "com.ciudad.reportes.app-merged_res-41:/drawable-night_ic_launcher_placeholder.xml.flat",
+        "source": "com.ciudad.reportes.app-main-43:/drawable-night/ic_launcher_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable_ic_add_24.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable\\ic_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\layout_item_reporte.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\item_reporte.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\layout_activity_logs.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\activity_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable-night_ic_launcher_placeholder.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable-night\\ic_launcher_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "com.ciudad.reportes.app-merged_res-41:/drawable_ic_launcher_placeholder.xml.flat",
+        "source": "com.ciudad.reportes.app-main-43:/drawable/ic_launcher_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-merged_res-41:\\drawable_ic_save_24.xml.flat",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\drawable\\ic_save_24.xml"
+    }
+]

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res"><file name="ic_launcher_placeholder" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\drawable\ic_launcher_placeholder.xml" qualifiers="" type="drawable"/><file name="activity_form" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\layout\activity_form.xml" qualifiers="" type="layout"/><file name="activity_logs" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\layout\activity_logs.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="item_log" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\layout\item_log.xml" qualifiers="" type="layout"/><file name="item_reporte" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\layout\item_reporte.xml" qualifiers="" type="layout"/><file path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\values\colors.xml" qualifiers=""><color name="black">#000000</color><color name="white">#FFFFFF</color><color name="red_error">#BA1A1A</color><color name="green_success">#388E3C</color><color name="md_theme_light_onPrimary">#FFFFFF</color><color name="md_theme_dark_onPrimaryContainer">#D3E4FF</color><color name="md_theme_dark_background">#1A1C1E</color><color name="md_theme_dark_onSurface">#E2E2E6</color><color name="md_theme_dark_onSurfaceVariant">#C3C6CF</color><color name="md_theme_light_surfaceVariant">#DFE2EB</color><color name="md_theme_light_primaryContainer">#D1E4FF</color><color name="md_theme_light_onTertiaryContainer">#251431</color><color name="md_theme_light_onErrorContainer">#410002</color><color name="md_theme_light_primary">#0061A4</color><color name="md_theme_light_onBackground">#1A1C1E</color><color name="md_theme_dark_tertiary">#D3BCDA</color><color name="md_theme_dark_onError">#690005</color><color name="md_theme_dark_error">#FFB4AB</color><color name="md_theme_light_tertiary">#6B5778</color><color name="md_theme_dark_onErrorContainer">#FFDAD6</color><color name="md_theme_light_tertiaryContainer">#F4DBFF</color><color name="md_theme_dark_surface">#1A1C1E</color><color name="md_theme_light_background">#FDFCFF</color><color name="md_theme_light_onPrimaryContainer">#001D36</color><color name="md_theme_light_outline">#73777F</color><color name="md_theme_light_onSurfaceVariant">#43474E</color><color name="md_theme_dark_secondary">#BBC8DB</color><color name="md_theme_dark_primary">#A8C7FA</color><color name="md_theme_dark_errorContainer">#93000A</color><color name="md_theme_dark_outline">#8D9199</color><color name="md_theme_light_onSurface">#1A1C1E</color><color name="md_theme_light_error">#BA1A1A</color><color name="md_theme_dark_onTertiaryContainer">#F0DBF7</color><color name="md_theme_dark_onPrimary">#00325A</color><color name="md_theme_dark_onBackground">#E2E2E6</color><color name="md_theme_light_surface">#FDFCFF</color><color name="md_theme_dark_onSecondaryContainer">#D7E4F2</color><color name="md_theme_dark_onTertiary">#42284C</color><color name="md_theme_light_onSecondaryContainer">#101C2B</color><color name="md_theme_light_secondaryContainer">#D6E4F7</color><color name="md_theme_dark_surfaceVariant">#43474E</color><color name="md_theme_light_errorContainer">#FFDAD6</color><color name="md_theme_dark_tertiaryContainer">#593E64</color><color name="md_theme_light_secondary">#535F70</color><color name="md_theme_light_onSecondary">#FFFFFF</color><color name="md_theme_light_onTertiary">#FFFFFF</color><color name="md_theme_dark_onSecondary">#2C3141</color><color name="md_theme_light_onError">#FFFFFF</color><color name="md_theme_dark_primaryContainer">#214A75</color><color name="md_theme_dark_secondaryContainer">#414757</color></file><file path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+
+        
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_light_onSecondaryContainer</item>
+
+        
+        <item name="colorTertiary">@color/md_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_light_onTertiaryContainer</item>
+
+        
+        <item name="colorError">@color/md_theme_light_error</item>
+        <item name="colorOnError">@color/md_theme_light_onError</item>
+        <item name="colorErrorContainer">@color/md_theme_light_errorContainer</item>
+        <item name="colorOnErrorContainer">@color/md_theme_light_onErrorContainer</item>
+
+        
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_light_onSurfaceVariant</item>
+
+        
+        <item name="colorOutline">@color/md_theme_light_outline</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+        
+        <item name="android:textColor">?attr/colorOnSurface</item>
+    </style><style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/><style name="AppButton" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">?attr/colorPrimary</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="cornerRadius">8dp</item>
+    </style><style name="AppAccentButton" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">?attr/colorSecondary</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+        <item name="cornerRadius">8dp</item>
+    </style></file><file path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.MyApplication" parent="Theme.Material3.Dark.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_dark_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_dark_onPrimaryContainer</item>
+
+        
+        <item name="colorSecondary">@color/md_theme_dark_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_dark_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_dark_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_dark_onSecondaryContainer</item>
+
+        
+        <item name="colorTertiary">@color/md_theme_dark_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_dark_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_dark_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_dark_onTertiaryContainer</item>
+
+        
+        <item name="colorError">@color/md_theme_dark_error</item>
+        <item name="colorOnError">@color/md_theme_dark_onError</item>
+        <item name="colorErrorContainer">@color/md_theme_dark_errorContainer</item>
+        <item name="colorOnErrorContainer">@color/md_theme_dark_onErrorContainer</item>
+
+        
+        <item name="android:colorBackground">@color/md_theme_dark_background</item>
+        <item name="colorOnBackground">@color/md_theme_dark_onBackground</item>
+        <item name="colorSurface">@color/md_theme_dark_surface</item>
+        <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_dark_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_dark_onSurfaceVariant</item>
+
+        
+        <item name="colorOutline">@color/md_theme_dark_outline</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+        
+        <item name="android:textColor">?attr/colorOnSurface</item>
+    </style></file><file name="backup_rules" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="file_paths" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\xml\file_paths.xml" qualifiers="" type="xml"/><file name="ic_add_24" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\drawable\ic_add_24.xml" qualifiers="" type="drawable"/><file name="ic_camera_24" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\drawable\ic_camera_24.xml" qualifiers="" type="drawable"/><file name="ic_delete_24" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\drawable\ic_delete_24.xml" qualifiers="" type="drawable"/><file name="ic_logs_24" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\drawable\ic_logs_24.xml" qualifiers="" type="drawable"/><file name="ic_save_24" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\drawable\ic_save_24.xml" qualifiers="" type="drawable"/><file name="ic_sync_24" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\drawable\ic_sync_24.xml" qualifiers="" type="drawable"/><file name="ic_launcher_placeholder" path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\main\res\drawable-night\ic_launcher_placeholder.xml" qualifiers="night-v8" type="drawable"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\marco\OneDrive\Escritorio\CityReportApp\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-mergeDebugResources-40:\\layout\\activity_logs.xml",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\activity_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-mergeDebugResources-40:\\layout\\activity_form.xml",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "com.ciudad.reportes.app-mergeDebugResources-40:/layout/activity_logs.xml",
+        "source": "com.ciudad.reportes.app-main-43:/layout/activity_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-mergeDebugResources-40:\\layout\\item_reporte.xml",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\item_reporte.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.ciudad.reportes.app-mergeDebugResources-40:/layout/item_reporte.xml",
+        "source": "com.ciudad.reportes.app-main-43:/layout/item_reporte.xml"
+    },
+    {
+        "merged": "com.ciudad.reportes.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.ciudad.reportes.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-mergeDebugResources-40:\\layout\\item_log.xml",
+        "source": "C:\\Users\\marco\\.gradle\\daemon\\8.2\\com.ciudad.reportes.app-main-43:\\layout\\item_log.xml"
+    },
+    {
+        "merged": "com.ciudad.reportes.app-mergeDebugResources-40:/layout/activity_form.xml",
+        "source": "com.ciudad.reportes.app-main-43:/layout/activity_form.xml"
+    },
+    {
+        "merged": "com.ciudad.reportes.app-mergeDebugResources-40:/layout/item_log.xml",
+        "source": "com.ciudad.reportes.app-main-43:/layout/item_log.xml"
+    }
+]
